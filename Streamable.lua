@@ -3,7 +3,7 @@ _G.PRED = 0.037
 local AimBotTHing = loadstring(game:HttpGet("https://raw.githubusercontent.com/Stefanuk12/ROBLOX/master/Universal/Aiming/GamePatches/2788229376.lua"))()
 AimBotTHing.TeamCheck(false)
 AimBotTHing.ShowFOV = true
-AimBotTHing.FOV = 15
+AimBotTHing.FOV = 22
 
 local Workspace = game:GetService("Workspace")
 local Players = game:GetService("Players")
